@@ -36,7 +36,7 @@ GIF created with OBS and Canva
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The main problem I faced while building the application was how to make it visually appealing to users visiting the site. I'm not the greatest when it comes to designing the frontend of the application so I took some time to look at color palettes.
 
 ## License
 
