@@ -27,7 +27,7 @@ Here's a walkthrough of implemented features:
 
 <!-- Replace this with whatever GIF tool you used! -->
 
-GIF created with ...
+GIF created with OBS and Canva
 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
